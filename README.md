@@ -26,4 +26,4 @@ Exceeds Expectations:
 Note: I made two printQuote functions; the first one pass a string of HTML to the DOM.
 	 The other one builds the HTML tags on to the DOM with JS.
 
-Bugs: If you click `start auto timer` button first, then the `end auto time` dose not worksBugs: If you click `start auto timer` button first, then the `end auto time` does not worksBugs: If you click `start auto timer` button first, then the `end auto time` does not works
+Bugs: If you click `start auto timer` button first, then the `end auto time` dose not worksBugs: If you click `start auto timer` button first, then the `end auto time` does not worksBugs: If you click `start auto timer` button first, then the `end auto time` does not worksBugs: If you click `start auto timer` button first, then the `end auto time` does not works
